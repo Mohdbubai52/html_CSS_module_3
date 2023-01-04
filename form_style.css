@@ -1,0 +1,21 @@
+table{
+    text-align: right;
+}
+.a,.v{
+    color: rgb(4, 88, 118);
+    text-decoration: solid;
+    text-align: center;
+ 
+}
+h2{
+    color: rgb(2, 11, 8);
+    background-color: rgb(159, 234, 209);
+}
+body{
+    background-color: rgb(205, 255, 244);
+}
+
+#m{
+    color: blue;
+    background-color: rgb(164, 233, 233);
+}
